@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c57106a41ab43629c1642527c2435ff, type: 3}
+  m_Name: FadeScaleIn
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  ease: 1
+  useStartPosition: 1
+  startPosition: {x: -1000, y: 740, z: 0}
+  animators:
+  - Animator: {fileID: 11400000, guid: 66ad971da8b4c4ff5a46b3a4976e2849, type: 2}
+    order: 0
+  - Animator: {fileID: 11400000, guid: ebfc106ff466f4df78f4197360dea7ca, type: 2}
+    order: 2
+  - Animator: {fileID: 11400000, guid: 16df21692eec8437ca0f006d40b3bc4b, type: 2}
+    order: 2

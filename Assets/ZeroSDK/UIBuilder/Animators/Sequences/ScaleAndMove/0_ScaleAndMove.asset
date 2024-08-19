@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c57106a41ab43629c1642527c2435ff, type: 3}
+  m_Name: 0_ScaleAndMove
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  ease: 1
+  useStartPosition: 0
+  startPosition: {x: 0, y: 0, z: 0}
+  animators:
+  - Animator: {fileID: 11400000, guid: 09a2949b5bc274b4392e448b564c727e, type: 2}
+    order: 0
+  - Animator: {fileID: 11400000, guid: d34a741001c1343ea8b5d308e6768d8a, type: 2}
+    order: 0
+  - Animator: {fileID: 11400000, guid: 35a82db3670e648aaa7a76c6a427c7c8, type: 2}
+    order: 0
+  - Animator: {fileID: 11400000, guid: 114c45dd5d98a46c68bac3b411f4a8cd, type: 2}
+    order: 0
+  - Animator: {fileID: 11400000, guid: 8dcd92379dc224385808d3e41ad7e485, type: 2}
+    order: 0

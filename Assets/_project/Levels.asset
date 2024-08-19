@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82be343348294046bb3d0fea5cc74b6d, type: 3}
+  m_Name: Levels
+  m_EditorClassIdentifier: 
+  levels:
+  - time: 60
+    coinsRate: 1
+    coinsSpeed: 3
+    collectionDistance: 0.5
+    coinScoreAddition: 5
+    shipSpeed: 300
+  - time: 60
+    coinsRate: 0.8
+    coinsSpeed: 3
+    collectionDistance: 0.5
+    coinScoreAddition: 7
+    shipSpeed: 300
+  - time: 60
+    coinsRate: 0.7
+    coinsSpeed: 3.5
+    collectionDistance: 0.5
+    coinScoreAddition: 8
+    shipSpeed: 350
+  - time: 60
+    coinsRate: 0.7
+    coinsSpeed: 3.75
+    collectionDistance: 0.5
+    coinScoreAddition: 10
+    shipSpeed: 350
+  - time: 60
+    coinsRate: 0.6
+    coinsSpeed: 3.75
+    collectionDistance: 0.5
+    coinScoreAddition: 12
+    shipSpeed: 375
+  - time: 60
+    coinsRate: 0.5
+    coinsSpeed: 3.75
+    collectionDistance: 0.5
+    coinScoreAddition: 12
+    shipSpeed: 400
+  - time: 60
+    coinsRate: 0.5
+    coinsSpeed: 3.75
+    collectionDistance: 0.5
+    coinScoreAddition: 12
+    shipSpeed: 400
+  - time: 60
+    coinsRate: 0.45
+    coinsSpeed: 4
+    collectionDistance: 0.5
+    coinScoreAddition: 14
+    shipSpeed: 450
+  - time: 60
+    coinsRate: 0.45
+    coinsSpeed: 4.5
+    collectionDistance: 0.5
+    coinScoreAddition: 16
+    shipSpeed: 450
+  - time: 60
+    coinsRate: 0.4
+    coinsSpeed: 5
+    collectionDistance: 0.5
+    coinScoreAddition: 16
+    shipSpeed: 475
+  - time: 60
+    coinsRate: 0.4
+    coinsSpeed: 5
+    collectionDistance: 0.5
+    coinScoreAddition: 16
+    shipSpeed: 500
+  - time: 60
+    coinsRate: 0.4
+    coinsSpeed: 6
+    collectionDistance: 0.5
+    coinScoreAddition: 18
+    shipSpeed: 525
+  - time: 60
+    coinsRate: 0.4
+    coinsSpeed: 7
+    collectionDistance: 0.5
+    coinScoreAddition: 20
+    shipSpeed: 525
